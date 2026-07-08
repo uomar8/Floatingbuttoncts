@@ -1,0 +1,6 @@
+{
+  "name": "Omni Button",
+  "description": "A highly customizable floating overlay button and Quick Settings tile to trigger voice assistant actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
